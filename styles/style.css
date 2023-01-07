@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.btn-primary {
+  font-weight: 600;
+  font-size: 20px;
+  color: #005FAC;
+  border: 0;
+  background: #ffffff;
+  border-radius: 5px;
+  padding: 20px 25px;
+}
+
+.banner {
+  background-image: url(../images/banner3.png);
+  background-size: cover;
+  background-position: center;
+}
+
+/* banner section styles */
+.banner-elements {
+  text-align: right;
+  padding: 200px 230px 170px 500px;
+}
+
+.banner-title {
+  font-weight: 700;
+  font-size: 65px;
+  color: #ffffff;
+  line-height: 70px;
+}
+
+.banner-section-description {
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+  padding: 30px 0 30px 60px;
+}
+
+/* main section styles */
+main {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.failures {
+  display: flex;
+  margin: 30px 0 30px;
+  align-items: center;
+  padding: 100px 0;
+}
+
+.failure-statements {
+  padding: 0 30px 0 30px;
+}
+
+.section-title {
+  font-weight: 700;
+  font-size: 42px;
+  color: #151414;
+}
+
+.section-description {
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  padding: 30px 0 30px 0;
+}
+
+.description-point i {
+  color: #16D887;
+  size: 26px;
+  padding: 0 10px 0 0;
+}
