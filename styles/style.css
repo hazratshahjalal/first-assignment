@@ -14,7 +14,7 @@
 }
 
 /* banner section styles */
-.banner {
+#banner {
   background-image: url(../images/banner3.png);
   background-size: cover;
   background-position: center;
@@ -45,7 +45,7 @@ main {
   margin: 0 auto;
 }
 
-.failures {
+#failures {
   display: flex;
   margin: 30px 0 30px;
   align-items: center;
@@ -76,7 +76,7 @@ main {
 }
 
 /* plan section styles */
-.plans {
+#plans {
   margin: 30px 0 30px;
   padding: 100px 0;
 }
@@ -116,7 +116,7 @@ main {
 
 /* gradient section style */
 
-.gradient-image {
+#gradient-image {
   background-image: linear-gradient(to right, rgba(0, 110, 255, 0.63), rgba(4, 0, 255, 0)), url(/images/watch.png);
   border-radius: 10px;
   background-repeat: no-repeat;
@@ -136,7 +136,7 @@ main {
 }
 
 /* contact me section styles */
-.contact-area {
+#contact-area {
   padding-bottom: 100px;
 }
 
@@ -172,12 +172,12 @@ main {
 /* footer section style */
 footer {
   background: #151414;
-  margin: 100px 0 0 0;
+  margin: 80px 0 0 0;
   padding: 30px 0;
 
 }
 
-.footer {
+#footer {
   max-width: 80%;
   margin: 0 auto;
 }
